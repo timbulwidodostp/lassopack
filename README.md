@@ -3,6 +3,8 @@ Model selection and prediction with regularized regression use lassopack (lasso2
 
 Lasso, square-root lasso, elastic net, ridge, adaptive lasso estimation and cross-validation use lassopack (lasso2 cvlasso rlasso) in (With) STATA 18
 
+https://www.youtube.com/watch?v=VjmbuxJ7Jfk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
